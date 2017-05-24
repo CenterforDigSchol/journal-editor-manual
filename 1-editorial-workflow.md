@@ -4,7 +4,7 @@ This section covers the steps editors and/or managing editors undertake to creat
 ## Tasks
 Your Tasks are available from the left menu of your Dashboard. Note the number "14" in the image below. This indicates that there are 14 tasks in your list.
 
-![Image of task queue](https://github.com/polleyda/journal-editor-manual/imgs/1-1-1.png)
+![Image of task queue](https://github.com/polleyda/journal-editor-manual/blob/master/imgs/1-1-1.png)
 
 Tasks provide a quick look at items that need your attention. Bold entries are unread, and unbold entries have been read.
 
