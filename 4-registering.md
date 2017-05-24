@@ -1,0 +1,1 @@
+# 4. Registering with a Journal
