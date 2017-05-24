@@ -1,4 +1,4 @@
-# Journal Editor Training Manual
+# Journal Editor Manual
 This guide is intended for editors and managing editors who publish a journal with [Open Access Journals at IUPUI](https://journals.iupui.edu), although it may be broadly applicable to anyone using OJS 3.0.
 
 #### Source:
