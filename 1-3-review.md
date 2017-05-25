@@ -59,6 +59,7 @@ Back on the Review Stage, we can see the Reviewer is now listed.
 
 At this point, we could add additional Reviewers, and then wait for their recommendations to come in.
 
+
 ## Responding to Reviews
 Once the Reviewers have completed their work, the Section Editor can see the results in their dashboard. Here they will see notifications that new reviews have been submitted and whether all reviews are in.
 
@@ -79,3 +80,70 @@ In the Reviewers panel, you can now see a *Thank Reviewer* link. Choose that to 
 Hit the **Thank Reviewer** button to send the message.
 
 ## Making the Decision
+Based on the Reviewer recommendations, you can use the action buttons to make a decision.
+
+![Decision action buttons](./images/1-3-15.png)
+
+Options include:
+
+**Request Revisions**: This will require the Author to make minor changes, but no further peer review is required.
+
+**Resubmit for Review**: This will require the Author to make major changes and another round of review will need to take place.
+
+**Send to Copyediting**: This means the submission is accepted without revisions and can proceed to the Copyediting stage.
+
+**Decline Submission**: This means that the submission has not passed peer review and is unsuitable for further consideration. The submission would then move to the Archives.
+
+## Request Revisions
+In this demonstration, we are going to request that the Author make some minor revisions before acceptance.
+
+To do so, select the **Request Revisions** button. This results in a new message window.
+
+![Request revisions button](./images/1-3-16.png)
+
+You can modify any of the text before sending the message.
+
+Use the **Add Reviews** button to import the Reviewer's comments from the Editor and Author field. Comments in the Editor only field will not be displayed.
+
+![Reviewer comments added](./images/1-3-17.png)
+
+If there are any attachments, such as marked up file created by a Reviewer, you can attach it here (as long as it has been anonymized).
+
+Hit the **Record Editorial Decision** button to send the message.
+
+You must now wait for the Author to respond with her revisions.
+
+## Author Responds
+Once the Author has made the revisions, you should receive a message (via email and the Review Discussions panel).
+
+![Author response message](./images/1-3-18.png)
+
+You will also see the revised file in the Revisions panel.
+
+At this point, you can download the revised file, check to make sure it is ready, and communicate with the Author using the Review Discussions panel.
+
+In this case, we're going to inform the Author that we are accepting the revisions. To do so, click on the linked title of the discussion. This will open the discussion box.
+
+![Discussion box](./images/1-3-19.png)
+
+Use the **Add Message** button to reply.
+
+![Reply to author](./images/1-3-20.png)
+
+Another option would be to ask for further revisions, but at this point, we're ready to move on.
+
+## Moving to Copyediting/Production
+
+Many journals with small production staff choose to combine copyediting and production into one stage. If your journal has a dedicated copyeditor, send the submission to copyediting using the blue **Send to Copyediting** button.
+
+![Send to copyediting](./images/1-3-21.png)
+
+This will open a new window.
+
+![Record editorial decision](./images/1-3-22.png)
+
+Hit the **Record Editorial Decision** button at the bottom of the window.
+
+The submission is automatically moved to the Copyediting stage. For more information on the details of the copyediting stage, see [the copyediting section](https://pkp.gitbooks.io/ojs3/content/en/copyediting.html) of Learning OJS 3.
+
+To move the submission directly to production for combined copyediting and layout,
