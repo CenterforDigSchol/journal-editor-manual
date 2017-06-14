@@ -146,4 +146,8 @@ Hit the **Record Editorial Decision** button at the bottom of the window.
 
 The submission is automatically moved to the Copyediting stage. For more information on the details of the copyediting stage, see [the copyediting section](https://pkp.gitbooks.io/ojs3/content/en/copyediting.html) of Learning OJS 3.
 
-To move the submission directly to production for combined copyediting and layout,
+Many journals choose to combine the copyediting and layout stages. Download the manuscript from the *Draft Files* section of the Copyediting section:
+
+![Send to Production](./images/1-3-23.png)
+
+Click the **Send to Production** button to move the submission into production.
