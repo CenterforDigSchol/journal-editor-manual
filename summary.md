@@ -4,6 +4,7 @@
 	* [1.2 Submissions](1-2-submissions.md)
 	* [1.3 Review](1-3-review.md)
 	* [1.4 Production](1-4-production.md)
+	* [1.5 Issue Creation & Publication](1-5-issues.md)
 * [2. Authoring](2-authoring.md)
 	* [2.1 Submitting an Article](2-1-submitting-article.md)
 	* [2.2 Responding to a Review](2-2-responding-to-review.md)
