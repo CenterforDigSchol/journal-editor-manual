@@ -10,4 +10,6 @@
 	* [2.2 Responding to a Review](2-2-responding-to-review.md)
 	* [2.3 Re-submitting for Review](2-3-resubmitting-for-review.md)
 * [3. Reviewing](3-reviewing.md)
-* [4. Registering with a Journal](4-registering.md)
+* [4. Copyediting](4-copyediting.md)
+* [5. Production](5-production.md)
+* [6. Registering with a Journal](6-registering.md)
