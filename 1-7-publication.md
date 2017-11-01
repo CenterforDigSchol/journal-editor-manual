@@ -1,4 +1,4 @@
-## Publish Issues
+## 1.7 Publication
 
 Find the issue that is ready for publication under *Future Issues*. Click on the issue link to see the order of articles in the table of contents.
 

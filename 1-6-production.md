@@ -1,4 +1,4 @@
-# 1.4 Production
+# 1.6 Production
 
 Most journals with small production staff combine copyediting and layout into one stage. In many cases, it is the editor herself who does this work. If the journal does have a separate copy editor and see [4. Copyediting](./4-copyediting.md)
 
