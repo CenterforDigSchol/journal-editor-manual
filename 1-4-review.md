@@ -1,4 +1,4 @@
-# 1.3 Review
+# 1.4 Review
 When the submission enters the Review Stage, a notification indicates that Reviewers need to be assigned.
 
 ![Review stage](./images/1-4-1.png)

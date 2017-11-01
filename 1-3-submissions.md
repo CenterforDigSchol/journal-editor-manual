@@ -1,4 +1,4 @@
-# 1.2 Submissions
+# 1.3 Submissions
 When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or from one of the queues (My Queue, Active, and Archives).
 
 ![My queue](./images/1-3-1.png)

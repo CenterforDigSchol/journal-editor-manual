@@ -1,4 +1,4 @@
-## 1.2 Issue Creation
+# 1.2 Issue Creation
 To create a new issue, select **Issues** from the navigation menu and choose **Future Issues**.
 
 ![Future Issues](./images/1-2-1.png)
