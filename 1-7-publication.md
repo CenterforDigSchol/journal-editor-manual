@@ -18,4 +18,4 @@ The issue is now published. If you need to un-publish an issue for any reason, y
 
 ![Unpublish Issue](./images/1-7-4.png)
 
-Once un-published the issue will move back to the *Future Issues* section.
+Once un-published, the issue will move back to the *Future Issues* section.
