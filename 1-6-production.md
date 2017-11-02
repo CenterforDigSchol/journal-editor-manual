@@ -1,13 +1,13 @@
 # 1.6 Production
 
-Most journals with small staff combine copyediting and production into one stage. In many cases, it is the editor herself who does this work. If the journal does have a separate copy editor and see [1.5. Copyediting](./1-5-copyediting.md)
+Most journals with a small staff combine copyediting and production into one stage. In many cases, it is the editor herself who does this work. If the journal does have a separate copy editor and see [1.5. Copyediting](./1-5-copyediting.md)
 
 Download the draft file from the *Copyediting* and click **Send to Production** to move the submission to the next stage.
 
 ![Download draft file](./images/1-6-1.png)
 
 
-When copyediting and layout is finished, simply upload the final PDF file to the *Galleys* section of the production stage.
+When copyediting and production is finished, simply upload the final PDF file to the *Galleys* section of the production stage.
 
 Click **Add galley**:
 
