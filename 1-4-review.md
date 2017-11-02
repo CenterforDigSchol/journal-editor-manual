@@ -103,7 +103,7 @@ To do so, select the **Request Revisions** button. This results in a new message
 
 You can modify any of the text before sending the message.
 
-Use the **Add Reviews** button to import the Reviewer's comments from the Editor and Author field. Comments in the Editor only field will not be displayed.
+Use the **Add Reviews** button to import the Reviewer's comments from the "Editor and Author" field of the review form. Comments in the "Editor Only" field will not be displayed in the message.
 
 ![Reviewer comments added](./images/1-4-17.png)
 
@@ -146,8 +146,8 @@ Hit the **Record Editorial Decision** button at the bottom of the window.
 
 The submission is automatically moved to the Copyediting stage. For more information on the details of the copyediting stage, see [1.5 Copyediting](./1-5-copyediting.md).
 
-If your journal combines the copyediting and layout stages, download the manuscript from the *Draft Files* section of the Copyediting section:
+If your journal combines the copyediting and production stages, download the manuscript from the *Draft Files* section of the Copyediting section:
 
 ![Send to Production](./images/1-4-23.png)
 
-Click the **Send to Production** button to move the submission into production. Copyediting and layout are performed outside the system. When the final version of the article is ready to upload, see [1.6 Production](./1-6-production.md)
+Click the **Send to Production** button to move the submission into production. Copyediting and layout are performed outside the system. When the final version of the article is ready to upload, see [1.6 Production](./1-6-production.md).

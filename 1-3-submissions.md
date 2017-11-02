@@ -70,13 +70,13 @@ Use the Notes tab to also view or add any editorial notes.
 
 ## Assigning the Submission
 
-To move the submission forward, the next step is to assign an editor or section editor. To do so, select the Add link in the **Participants** panel.
+To move the submission forward, the next step is to assign an editor, section editor, or guest editor. To do so, select the Add link in the **Participants** panel.
 
 ![Add participant](./images/1-3-12.png)
 
 You will have the option to locate a user by role, choose an individual, and send them a message requesting their assistance.
 
-Hit the OK button to make the assignment and send the message.
+Hit the **OK** button to make the assignment and send the message.
 
 ![Section editor added](./images/1-3-13.png)
 
@@ -102,7 +102,7 @@ Clicking on the Submission link opens the full submission record.
 Note the **Pre-Review Discussion**, which was the Editor's invitation to edit, as well as Stephanie now being in the **Participants** list.
 
 ## Accepting the Assignment
-It is not required, but the Section Editor could reply to the Pre-Review Discussion to inform the editor that she will be proceeding with the assignment.
+It is not required, but the Section Editor could reply to the Pre-Review Discussion to inform the Editor that she will be proceeding with the assignment.
 
 ## Communicating with the Author
 If the Section Editor has any questions for the author, she can use the Pre-Review Discussions.
