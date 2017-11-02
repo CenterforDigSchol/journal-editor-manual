@@ -3,6 +3,6 @@ Your Tasks are available from the left menu of your Dashboard. Note the number "
 
 ![Image of task queue](./images/1-1-1.png)
 
-Tasks provide a quick look at items that need your attention. Bold entries are unread, and unbold entries have been read.
+Tasks provide a quick look at items that need your attention. Bold entries are unread and unbold entries have been read.
 
 Use the checkbox to mark tasks for deletion (the delete link is available at the bottom of the list).
