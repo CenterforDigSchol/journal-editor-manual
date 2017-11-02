@@ -1,6 +1,6 @@
 # 1.6 Production
 
-Most journals with small production staff combine copyediting and layout into one stage. In many cases, it is the editor herself who does this work. If the journal does have a separate copy editor and see [4. Copyediting](./4-copyediting.md)
+Most journals with small production staff combine copyediting and layout into one stage. In many cases, it is the editor herself who does this work. If the journal does have a separate copy editor and see [1.5. Copyediting](./1-5-copyediting.md)
 
 Download the draft file from the *Copyediting* and click **Send to Production** to move the submission to the next stage.
 
