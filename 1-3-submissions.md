@@ -1,5 +1,5 @@
 # 1.3 Submissions
-When an author makes a new submission to your journal, the editor is automatically emailed. When you log into your Dashboard, you can find it either from your Tasks, or from one of the queues (My Queue, Active, and Archives).
+When an author makes a new submission to your journal, the editor is automatically emailed. When you log on to your Dashboard, you can find it either from your Tasks, or from one of the queues (My Queue, Active, and Archives).
 
 ![My queue](./images/1-3-1.png)
 
@@ -8,7 +8,7 @@ This page is divided into 3 sections:
 
 **Unassigned**: This panel includes submissions added to sections without section editors.
 
-**My Assigned**: This panel includes submissions added to sections where you are a section editor.
+**My Assigned**: This panel includes submissions added to sections where you are a section editor. Note, if you are the journal's only editor, submissions will automatically appear here.
 
 **My Authored**: This panel includes submissions that you wrote, and should be assigned to a different editor.
 
@@ -40,7 +40,7 @@ To view the submission in more detail, select the *Submission* link to the right
 
 From here, you can see:
 
-**Submission Files**: This panel lists the files that have been submitted. In this view, there is just one file, but multiple files could have been submitted.
+**Submission Files**: This panel lists the files that have been submitted. In this instance, there is just one file, but multiple files could have been submitted.
 
 **Pre-Review Discussions**: This panel allows the editor to communicate with the author, or with others on the editorial team. For example, to ask the author for some additional information, or to ask a section editor to take responsibility for this submission.
 
@@ -64,7 +64,7 @@ Use the Notes tab to also view or add any editorial notes.
 
 ![Editorial notes](./images/1-3-10.png)
 
-**Submission Library**: Where you can add any relevant documents to the submission's library.
+**Submission Library**: Where you can add any relevant documents to the submission's library. Upon acceptance, this is a good place to store any author agreement forms related to the submission.
 
 ![Submission library](./images/1-3-11.png)
 

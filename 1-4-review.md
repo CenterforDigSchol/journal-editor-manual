@@ -3,7 +3,7 @@ When the submission enters the Review Stage, a notification indicates that Revie
 
 ![Review stage](./images/1-4-1.png)
 
-From the Reviewers panel, you can select Add Reviewer to assign a new Reviewer.
+From the Reviewers panel, you can select **Add Reviewer** to assign a new Reviewer.
 
 This opens a new window, where Reviewers are listed and can be selected one at a time.
 
@@ -65,7 +65,7 @@ Once the Reviewers have completed their work, the Section Editor can see the res
 
 ![Review submitted notification](./images/1-4-11.png)
 
-Use the *Read Review* link in the Reviewers panel to read the comments from the Reviewers, including those for both the Author and Editor as well as for the Editor only.
+Click the *Read Review* link in the Reviewers panel to read the comments from the Reviewers, including those for both the Author and Editor as well as for the Editor only.
 
 ![Reviewer comments](./images/1-4-12.png)
 
