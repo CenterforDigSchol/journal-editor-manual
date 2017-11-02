@@ -1,6 +1,6 @@
 # 1.5 Copyediting
 
-When the submission enters the Copyediting Stage, a notification indicates that a Copyeditor needs to be assigned. Copyeditors can be assigned using the Add link on the Participants panel.
+When the submission enters the Copyediting Stage, a notification indicates that a Copyeditor needs to be assigned. Copyeditors can be assigned using the *Add* link on the Participants panel.
 
 This will open a new window.
 
@@ -35,9 +35,9 @@ Then, she can click the Copyediting link next to the submission name. This will 
 
 From here, she can see the Draft Files. These are the files that require copyediting. Clicking on the linked title will download the file to her desktop.
 
-Outside of OJS, she will do her copyediting work.
+She will do her copyediting work outside of OJS.
 
-To check the submission metadata, use the Metadata link in the blue bar at the top.
+To check the submission metadata, use the *Metadata* link in the blue bar at the top.
 
 ![Check submission metadata](./images/1-5-5.png)
 
@@ -99,7 +99,7 @@ From here, you can see no further changes are required.
 
 Now you can go ahead and upload the final copyedited version to the Copyedited panel, near the bottom of the screen.
 
-![Upload final copyedited version](./iamges/1-5-16.png)
+![Upload final copyedited version](./images/1-5-16.png)
 
 Use the Upload/Select Files link to upload the final copyedited version.
 
@@ -137,4 +137,4 @@ Returning to the Copyediting stage, you can see the message is posted.
 
 ![Message posted](./images/1-5-21.png)
 
-You work as the Copyeditor is now complete! Some from the editorial team will now move the manuscript into production.
+You work as the Copyeditor is now complete! Someone from the editorial team will now move the manuscript into production.
