@@ -137,4 +137,4 @@ Returning to the Copyediting stage, you can see the message is posted.
 
 ![Message posted](./images/1-5-21.png)
 
-You work as the Copyeditor is now complete! Someone from the editorial team will now move the manuscript into production.
+Your work as the Copyeditor is now complete! Someone from the editorial team will now move the manuscript into production.
