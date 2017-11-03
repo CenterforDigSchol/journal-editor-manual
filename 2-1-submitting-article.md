@@ -91,7 +91,7 @@ Your submission is now complete! The editor has been notified of your submission
 - Return to your dashboard
 
 ##Dashboard
-And here is your submission in your Dashboard. You can see that it is currently in the *Submission* stage.
+Here is your submission in your Dashboard. You can see that it is currently in the *Submission* stage.
 
 ![My submissions](./images/2-1-16.png)
 
