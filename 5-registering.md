@@ -1,4 +1,4 @@
-# 6. Registering with a Journal
+# 5. Registering with a Journal
 Unregistered visitors to a journal can normally register as a Reader, Author, and/or Reviewer. Journal Managers are able to remove the ability for visitors to self-register, in which case a notice will appear stating that registration is currently closed (see Journal Settings), but Journal Managers can always register users at any time, and for any role.
 
 To register with a journal, click the Register link on the upper right corner.

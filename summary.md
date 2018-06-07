@@ -12,4 +12,6 @@
 	* [2.2 Responding to a Review](2-2-responding-to-review.md)
 	* [2.3 Re-submitting for Review](2-3-resubmitting-for-review.md)
 * [3. Reviewing](3-reviewing.md)
-* [4. Registering with a Journal](6-registering.md)
+* [4. Copyediting](4-copyediting.md)
+* [5. Registering with a Journal](5-registering.md)
+* [QuickSubmit Plugin](6-quick-submit.md)
