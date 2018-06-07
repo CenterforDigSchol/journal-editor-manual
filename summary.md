@@ -14,4 +14,4 @@
 * [3. Reviewing](3-reviewing.md)
 * [4. Copyediting](4-copyediting.md)
 * [5. Registering with a Journal](5-registering.md)
-* [QuickSubmit Plugin](6-quick-submit.md)
+* [6. QuickSubmit Plugin](6-quick-submit.md)
