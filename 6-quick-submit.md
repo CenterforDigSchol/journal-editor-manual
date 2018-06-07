@@ -1,11 +1,11 @@
 # 6. Quick Submit Plugin
 The QuickSubmit Plugin provides a one-step submission process, allowing journal editors to upload final versions of articles as PDF files ready to be scheduled for publication. This plugin makes it possible to bypass the peer review and copyediting stages.
 
-To accesss the plguin, from the side menu **Tools > Import/Export**.
+To accesss the plguin click, from the side menu **Tools > Import/Export**.
 
 ![Tools > Import/Export](./images/7-1.png)
 
-Click on the *QuickSubmit Plugin* link from the list of available plugins:
+Click on the **QuickSubmit Plugin** link from the list of available plugins:
 
 ![Select the QuickSubmit Plugin link](./images/7-2.png)
 
@@ -13,17 +13,21 @@ The QuickSubmit form allows users to choose the section in which the article wil
 
 ![Fill out the QuickSubmit form with ariticle metadata](./images/7-3.png)
 
-If the journal's article submission stage requires any additional pieces of metadata, such as article references or keywords, these will appear in the quick submit form. Next, add authors under the *Add Contributors* heading.
+If the journal's article submission stage requires any additional pieces of metadata, such as article references or keywords, these will appear in the QuickSubmit form. Next, add authors under the *Add Contributors* heading.
 
 ![Add additional metadata and contributors](./images/7-4.png)
 
 Upload the final PDF version of the article under the *Galleys* section.
 
-![Galleys section](.images/7-5.png)
+![Galleys section](./images/7-5.png)
 
 Click **Add galley**, set the galley label to PDF, and click **Save**.
 
-Select the *Article Component* and upload the final version of the article. 
+![Set galley label to PDF](./images/7-6.png)
+
+Select the *Article Component* and upload the final version of the article.
+
+![Upload final PDF version](./images/7-7.png) 
 
 Review the details and click **Complete**.
 
