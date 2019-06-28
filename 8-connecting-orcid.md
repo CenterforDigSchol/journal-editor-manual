@@ -20,4 +20,8 @@ Add your ORCID to the appropriate field, making sure to format it as a full URL:
 
 Do the same for your co-authors, if you know their ORCID.
 
-The result of adding ORCID to your profile or the article submission metadata is that it will display on the landing page of the published article. This allows readers to click on it and view your ORCID profile, potentially increasing the number of times your other work is read and cited.
+The result of adding ORCID to your profile or the article submission metadata is that it will display on the landing page of the published article:
+
+![ORCID displayed on article landing page](./images/8-7.png)
+
+This allows readers to click on it and view your ORCID profile, potentially increasing the number of times your other work is read and cited.
