@@ -3,11 +3,11 @@ Unregistered visitors to a journal can normally register as a Reader, Author, an
 
 To register with a journal, click the Register link on the upper right corner.
 
-![Register link](./images/6-1.png)
+![Register link](./images/5-1.png)
 
 This will open the Registration Form for you to complete with all required information.
 
-![Registration form](./images/6-2.png)
+![Registration form](./images/5-2.png)
 
 All fields with an asterisk (First Name, Last Name, Affiliation, Country, Email, Username, Password, Repeat Password) are mandatory. If the journal is multilingual, you will need to select your preferred language.
 

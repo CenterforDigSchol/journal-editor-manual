@@ -15,3 +15,5 @@
 * [4. Copyediting](4-copyediting.md)
 * [5. Registering with a Journal](5-registering.md)
 * [6. QuickSubmit Plugin](6-quick-submit.md)
+* [7. Connecting ORCID to OJS](7-connecting-orcid.md)
+
